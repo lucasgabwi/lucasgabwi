@@ -28,15 +28,15 @@ Sou PcD (Pessoa com Deficiência), e minha deficiência é: Autismo (mas, esse a
 
 **Links:**
 
-* ![Link do meu portfólio](https://lucasgabwi.github.io)
+* [Link do meu portfólio](https://lucasgabwi.github.io)
 
-* ![Link do meu GitHub](https://github.com/lucasgabwi)
+* [Link do meu GitHub](https://github.com/lucasgabwi)
 
 **Projetos:**
 
-* Tributo a Larissa Manoela - ![Link do projeto](https://github.com/lucasgabwi/TributoaLarissaManoela)
+* Tributo a Larissa Manoela - [Link do projeto](https://github.com/lucasgabwi/TributoaLarissaManoela)
 
-* Venda de Coisas - ![Link do projeto](https://github.com/lucasgabwi/Venda-de-Coisas-HTML-CSS)
+* Venda de Coisas - [Link do projeto](https://github.com/lucasgabwi/Venda-de-Coisas-HTML-CSS)
 
 * Entre outros projetos.
 
