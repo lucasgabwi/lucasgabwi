@@ -28,7 +28,7 @@ Sou PcD (Pessoa com Deficiência), e minha deficiência é: Autismo (mas, esse a
 
 **Links:**
 
-* [Link do meu portfólio](https://lucasgabwi.github.io)
+* [Link do meu portfólio](https://lucasgabwi-portfolio.vercel.app)
 
 * [Link do meu GitHub](https://github.com/lucasgabwi)
 
