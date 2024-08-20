@@ -43,3 +43,5 @@ Sou PcD (Pessoa com Deficiência), e minha deficiência é: Autismo (mas, esse a
 **Experiência:**
 
 * Nenhuma (não posso trabalhar, ainda).
+
+* [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgabwi)](https://github.com/anuraghazra/github-readme-stats)
