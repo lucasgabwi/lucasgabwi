@@ -8,14 +8,13 @@
 
 **Descrição:**
 
-Sou PcD (Pessoa com Deficiência), e minha deficiência é: Autismo (mas, esse autismo, é de nível 1 de suporte), e quero ser desenvolvedor PHP Full-Stack.
+Sou PcD (Pessoa com Deficiência), e minha deficiência é: TEA (Transtorno do Espectro Autista que é Nível 1 de Suporte) e quero ser desenvolvedor PHP Full-Stack.
 
 **Habilidades:**
 
 * HTML e CSS básico (com Responsividade, Flexbox, formulários e html básico);
-
+* Estudando JavaScript;
 * Estou estudando Git e GitHub;
-
 * E mais novidades, modifico esse README.
 
 **Interesses:**
