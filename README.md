@@ -8,7 +8,7 @@
 
 **Descrição:**
 
-Sou PcD (Pessoa com Deficiência), e minha deficiência é: TEA (Transtorno do Espectro Autista que é Nível 1 de Suporte) e quero ser desenvolvedor PHP Full-Stack.
+Sou PcD (Pessoa com Deficiência), e minha deficiência é: TEA (Transtorno do Espectro Autista que é Nível 1 de Suporte) e tenho TDAH (Transtorno de Déficit de Atenção e Hiperatividade), e quero ser desenvolvedor PHP Full-Stack.
 
 **Habilidades:**
 
