@@ -2,7 +2,7 @@
 
 **Nome:** Lucas Gabriel Witchemichen
 
-**Idade:** 12 anos
+**Idade:** 13 anos
 
 **Localização:** Guarapuava - PR, Brasil
 
